@@ -1,0 +1,19 @@
+{
+  "name": "playwright_bloxico",
+  "version": "1.0.0",
+  "description": "Automation tests repository for Bloxico website using Playwright for practise purposes",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "Playwright",
+    "Automation",
+    "Bloxico website",
+    "Practise"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.8.2"
+  }
+}
