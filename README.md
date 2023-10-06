@@ -22,8 +22,9 @@ Install Node modules, run: `npm i`
 
 Check if you already have Node instaled, run: `node -v`
 
-Install Playwright dependencies, run: `npm init playwright@latest` 
+**Playwright**
 
+Install Playwright dependencies, run: `npm init playwright@latest` 
 
 ---
 
